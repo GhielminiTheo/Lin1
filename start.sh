@@ -5,7 +5,7 @@ apt install git -y
 apt update -y
 apt install libz-dev libssl-dev libcurl4-gnutls-dev libexpat1-dev gettext cmake gcc -y
 
-git clone https://github.com/XXXXXXX/Lin1.git
+git clone https://github.com/GhielminiTheo/Lin1.git
 
 chmod +x Lin1/debianInstall/testEnvironnement.sh
 
